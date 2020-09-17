@@ -1,2 +1,3 @@
-# bs4boiler
+# SASS Boiler
+
 initial readme
